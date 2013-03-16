@@ -7,6 +7,7 @@ PythonPunk is a Text-Based RP Pick your story game made by Nathan Stevens(A.K.A 
 
 PythonPunk was also made with the great assisting power of Matthew Royster(A.K.A MattRoyster)
 ---------------------------------------------------------------------------------------------
+
 Change Log:
 ===========
 3/14/2013
