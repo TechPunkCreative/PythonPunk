@@ -2,11 +2,11 @@ PythonPunk
 ==========
 
 Vist http://thetechpunk.github.com/PythonPunk/ for Terms of Use
----------------------------------------------------------------------------------------------
+
 PythonPunk is a Text-Based RP Pick your story game made by Nathan Stevens(A.K.A TheTechPunk)
 
 PythonPunk was also made with the great assisting power of Matthew Royster(A.K.A MattRoyster)
----------------------------------------------------------------------------------------------
+
 
 Change Log:
 ===========
