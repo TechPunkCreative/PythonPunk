@@ -2,7 +2,7 @@
 # Name:        PythonPunk1.0
 # Purpose:     For all to enjoy
 #
-# Author:      Nathan
+# Author:      Nathan and Matthew
 #
 # Created:     14/03/2013
 # Copyright:   (c) Nathan 2013
